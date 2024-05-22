@@ -282,3 +282,7 @@ ggplot(df2, aes(x = n_ingredients)) +
 ```
 
 *Grafiğe göre tariflerde ortalama 8 ile 10 arasında malzeme kullanıldığı görülmektedir.*
+
+## **Q4: Veri setinin BYS platformuna ihtali  [20 puan]**
+
+Veri setimizi kullanıcıların sisteme doğrudan veri girişi yaptığı şekilde yükleyemediğimiz için **wp_all_import** eklentisini kullanarak yemek tariflerini post olarak girebildik ancak tariflere gereken yorumları ithal edemedik. Tariflerin eklenmesi Q6'da videoda detaylıca gösterilecektir.
