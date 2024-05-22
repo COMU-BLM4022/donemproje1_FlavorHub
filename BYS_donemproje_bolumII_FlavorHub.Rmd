@@ -99,3 +99,186 @@ Veri seti üzerinde şu değişiklikleri yaptık:
 1.  recipes.csv dosyasındaki description sütununda 231 adet boş veri kümesini veritabanına yükleyemediğimiz için boş veri kümelerini boşluk karakteriyle (" ") doldurduk.
 
 2.  interactions.csv dosyasındaki "review" sütunundaki 8 adet boş veri kümesini veritabanına yükleyemediğimiz için boş veri kümelerini boşluk karakteriyle (" ") doldurduk.
+
+## **Q3: Veri seti keşifsel analizi [20 puan]**
+
+Veri setinizde bulunan interactions.csv dosyasındaki "user_id", "recipe_id", "rating" ve "review" sütunları önemlidir. İşte bu sütunların önemini açıklayan birkaç nokta:
+
+1.  **user_id**: Her etkileşim için kullanıcı kimliğini belirtir. Kullanıcılara kişiselleştirilmiş reklam sunabilmemize olanak sağlar.
+
+2.  **recipe_id**: Etkileşimin hangi tarife ait olduğunu belirtir.
+
+3.  **rating**: Kullanıcıların tariflere verdikleri puanı belirtir. Bu, tariflerin genel memnuniyet seviyesini belirlemek ve popüler tarifleri tanımlamak için önemlidir.
+
+4.  **review**: Kullanıcıların tarifler hakkındaki yorumlarını içerir. Bu yorumlar, tariflerin nasıl geliştirilebileceği, hangi özelliklerin beğenildiği veya beğenilmediği gibi değerli içgörüler sağlayabilir.
+
+Bu sütunlar, kullanıcıların davranışlarını, tercihlerini ve geri bildirimlerini anlamak için temel bilgiler sağlar ve projenizin amacına uygun analizler yapmanızı sağlar.
+
+Veri setinizde bulunan interactions.csv dosyasındaki "description" ve "recipe_id" sütunları önemlidir. İşte bu sütunların önemini açıklayan birkaç nokta:
+
+1.  **description:** Bu sütun tarifin kısa bir açıklamasını veya tarif hakkında bazı bilgileri içerir. Metinsel veri analizi yapacağımız için en önemli sütunumuz budur.
+
+2.  **recipe_id:** Bu sütun, incelemesi yapılan tarifin benzersiz kimlik numarasını içerir.
+
+**Kütüphanelerin import edilmesi**
+
+```{r, echo=FALSE}
+library(dplyr)
+library(tidyr)
+library(readr)
+library(stringr)
+library(jsonlite)
+library(ggplot2)
+```
+
+**Verisetlerininin okunması**
+
+```{r, echo=FALSE}
+
+df1 <- read_csv("RAW_interactions.csv", n_max = 100000)
+df2 <- read_csv("RAW_recipes.csv", n_max = 100000)
+```
+
+**df1 dataframe'i tariflere gelen değerlendirmeleri içeriyor**
+
+**df2 dataframe'i tarifleri ve bu tariflerle ilgili diğer verileri içeriyor**
+
+**verisetleri için ilk shape bilgilerinin görüntülenmesi**
+
+```{r, echo=FALSE}
+
+dim(df1)
+dim(df2)
+```
+
+**verisetinin boyutu büyük olduğu için yapılacak veri manipülasyonu işlemleri, uzun sürecek. Bu durumu engellemek için verisetlerinin boyutunu küçülteceğiz** **df2 değişkenindeki post id sütun ismini df1'de karşılık geldiği recipe_id sütun ismiyle aynı yapalım.**
+
+```{r, echo=FALSE}
+
+df2 <- df2 %>% rename(recipe_id = id)
+```
+
+**Eşit olmayan recipe_id'lere sahip satırların filtrelenmesi ve güncellenmesi**
+
+```{r, echo=FALSE}
+
+df1 <- df1 %>% filter(recipe_id %in% df2$recipe_id)
+df2 <- df2 %>% filter(recipe_id %in% df1$recipe_id)
+```
+
+**boyutu küçültüldükten sonra verisetlerinin son halleri**
+
+```{r, echo=FALSE}
+
+dim(df1)
+dim(df2)
+```
+
+**verisetlerinin ilk 5 satırlarını gözlemleyelim.**
+
+```{r, echo=FALSE}
+
+head(df2)
+head(df1)
+```
+
+**df2 özet istatistikleri görüntüleyelim.**
+
+```{r, echo=FALSE}
+summary(df1)
+```
+
+**df2 özet istatistikleri görüntüleyelim.**
+
+```{r, echo=FALSE}
+summary(df2)
+```
+
+**verisetlerindeki NaN veri sayıları**
+
+```{r, echo=FALSE}
+sum(is.na(df1))
+sum(is.na(df2))
+```
+
+**Boş değer içeren sütunları görüntüleyin**
+
+```{r, echo=FALSE}
+na_summary <- data.frame(
+  column = names(df1),
+  na_count = colSums(is.na(df1)),
+  na_percentage = colSums(is.na(df1)) / nrow(df1) * 100
+)
+
+
+na_summary <- na_summary %>% filter(na_count > 0)
+print(na_summary)
+
+# Her sütundaki boş değerlerin sayısını ve oranını içeren bir veri çerçevesi oluşturalım
+na_summary2 <- data.frame(
+  column2 = names(df2),
+  na_count2 = colSums(is.na(df2)),
+  na_percentage2 = colSums(is.na(df2)) / nrow(df2) * 100
+)
+
+
+
+na_summary2 <- na_summary2 %>% filter(na_count2 > 0)
+print(na_summary2)
+
+```
+
+**Boş değer içeren sütunların görüntülenmesi**
+
+**df1 verisetindeki 'review' sütununda 8 adet boş değer var**
+
+**df2 verisetindeki 'description' sütununda 231 adet boş değer var**
+
+```{r, echo=FALSE}
+
+replace_na_with_null <- function(df) {
+  df %>% mutate(across(everything(), ~ replace_na(., "NULL")))
+}
+```
+
+```{r, echo=FALSE}
+
+df1 <- replace_na_with_null(df1)
+df2 <- replace_na_with_null(df2)
+```
+
+**boş değerleri "NULL" text'i olarak değiştirdik.**
+
+```{r, echo=FALSE}
+
+sum(is.na(df1))
+sum(is.na(df2))
+```
+
+**df1 için histogram (rating dağılımı)**
+
+```{r, echo=FALSE}
+
+ggplot(df1, aes(x = rating)) +
+  geom_histogram(binwidth = 0.5, fill = "skyblue", color = "black") +
+  labs(title = "Rating Distribution",
+       x = "Rating",
+       y = "Frequency") +
+  theme_minimal()
+```
+
+Yaklaşık 30000 tarife 5 yıldız geldiği görülmektedir. Bu grafiğe göre kullanıcıların yemek tariflerini genel olarak başarılı buldukları anlaşılmaktadır.
+
+**df2 için histogram veya kutu grafiği (malzeme sayısı dağılımı)**
+
+```{r, echo=FALSE}
+
+ggplot(df2, aes(x = n_ingredients)) +
+  geom_histogram(binwidth = 1, fill = "lightgreen", color = "black") +
+  labs(title = "Number of Ingredients Distribution",
+       x = "Number of Ingredients",
+       y = "Frequency") +
+  theme_minimal()
+```
+
+*Grafiğe göre tariflerde ortalama 8 ile 10 arasında malzeme kullanıldığı görülmektedir.*
