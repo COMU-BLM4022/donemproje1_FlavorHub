@@ -286,3 +286,35 @@ ggplot(df2, aes(x = n_ingredients)) +
 ## **Q4: Veri setinin BYS platformuna ihtali  [20 puan]**
 
 Veri setimizi kullanıcıların sisteme doğrudan veri girişi yaptığı şekilde yükleyemediğimiz için **wp_all_import** eklentisini kullanarak yemek tariflerini post olarak girebildik ancak tariflere gereken yorumları ithal edemedik. Tariflerin eklenmesi Q6'da videoda detaylıca gösterilecektir.
+
+## **Q5 : Yapılması planlanan veri analizi [10 puan]**
+
+1.  **Noktalama İşareti ve Sayıların Silinmesi:**
+
+    İlk olarak, metin verilerinden noktalama işaretlerini ve sayıları kaldırmamız gerekecek. Bunun için gsub() fonksiyonu kullanılabilir.
+
+    Metin verilerindeki tüm harfleri küçük harfe dönüştürmek için tolower() fonksiyonunu kullanabiliriz.
+
+2.  **Tüm Harflerin Küçük Harfe Dönüştürülmesi**:
+
+    Metin verilerindeki tüm harfleri küçük harfe dönüştürmek için **`tolower()`** fonksiyonunu kullanabiliriz.
+
+3.  **Tokenization (Kelimelere Ayırma):**
+
+    Metni kelimelere ayırmak için tokenization işlemi yapmamız gerekecek. Bunun için tokenizers paketinden yararlanabiliriz.
+
+4.  **Stemming:**
+
+    Kelimelerin köklerini bulmak için stemming işlemi yapabiliriz. Bu işlem, SnowballC paketindeki wordStem() fonksiyonu ile gerçekleştirilebilir.
+
+5.  **Kelime Vectorization (TF-IDF, Word2Vec veya Count Vectorization):**
+
+    Metin verilerini sayısal vektörlere dönüştürmek için TF-IDF, Word2Vec veya Count Vectorization gibi teknikler kullanılabilir.
+
+    Bu işlemleri gerçekleştirmek için tm ve textTinyR gibi paketler kullanılabilir.
+
+6.  **Hibrit Filtreleme Temelli Algoritmalar ile Model Eğitimi:**
+
+    Elde edilen vektörler kullanılarak hibrit filtreleme temelli algoritmalar ile bir model eğitilir.
+
+    Örneğin, recommenderlab paketi kullanılabilir.

@@ -1949,6 +1949,39 @@ kullanarak yemek tariflerini post olarak girebildik ancak tariflere
 gereken yorumları ithal edemedik. Tariflerin eklenmesi Q6’da videoda
 detaylıca gösterilecektir.</p>
 </div>
+<div id="q5-yapılması-planlanan-veri-analizi-10-puan" class="section level2">
+<h2><strong>Q5 : Yapılması planlanan veri analizi [10
+puan]</strong></h2>
+<ol style="list-style-type: decimal">
+<li><p><strong>Noktalama İşareti ve Sayıların Silinmesi:</strong></p>
+<p>İlk olarak, metin verilerinden noktalama işaretlerini ve sayıları
+kaldırmamız gerekecek. Bunun için gsub() fonksiyonu kullanılabilir.</p>
+<p>Metin verilerindeki tüm harfleri küçük harfe dönüştürmek için
+tolower() fonksiyonunu kullanabiliriz.</p></li>
+<li><p><strong>Tüm Harflerin Küçük Harfe Dönüştürülmesi</strong>:</p>
+<p>Metin verilerindeki tüm harfleri küçük harfe dönüştürmek için
+<strong><code>tolower()</code></strong> fonksiyonunu
+kullanabiliriz.</p></li>
+<li><p><strong>Tokenization (Kelimelere Ayırma):</strong></p>
+<p>Metni kelimelere ayırmak için tokenization işlemi yapmamız gerekecek.
+Bunun için tokenizers paketinden yararlanabiliriz.</p></li>
+<li><p><strong>Stemming:</strong></p>
+<p>Kelimelerin köklerini bulmak için stemming işlemi yapabiliriz. Bu
+işlem, SnowballC paketindeki wordStem() fonksiyonu ile
+gerçekleştirilebilir.</p></li>
+<li><p><strong>Kelime Vectorization (TF-IDF, Word2Vec veya Count
+Vectorization):</strong></p>
+<p>Metin verilerini sayısal vektörlere dönüştürmek için TF-IDF, Word2Vec
+veya Count Vectorization gibi teknikler kullanılabilir.</p>
+<p>Bu işlemleri gerçekleştirmek için tm ve textTinyR gibi paketler
+kullanılabilir.</p></li>
+<li><p><strong>Hibrit Filtreleme Temelli Algoritmalar ile Model
+Eğitimi:</strong></p>
+<p>Elde edilen vektörler kullanılarak hibrit filtreleme temelli
+algoritmalar ile bir model eğitilir.</p>
+<p>Örneğin, recommenderlab paketi kullanılabilir.</p></li>
+</ol>
+</div>
 
 
 
