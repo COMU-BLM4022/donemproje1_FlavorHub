@@ -1,0 +1,41 @@
+---
+title: "Bilgi Yönetim Sistemleri - Bitirme Projesi Rapor : 
+Mert YILMAZ 200401098
+Muhammed TERZİ 200401102
+Muhammed Onur ULU 200401118
+Süleyman AYTEKİN 180401069
+"
+output:
+  html_document:
+    df_print: paged
+---
+
+## **Q1: İş probleminin tanımı [10 puan]**
+
+FlavorHub, kullanıcıların yemek tariflerini paylaşabilecekleri ve keşfedebilecekleri etkileşimli bir Wordpress web sitesi işletmektedir. Web sitesi, tavsiye sistemi algoritmalarını kullanarak kişiselleştirilmiş reklamlar üzerinden gelir elde etmektedir. Ancak mevcut gelir modeli, kullanıcı etkileşimini ve reklam gelirlerini maksimize etme konusunda bazı zorluklar yaşamaktadır. Bu raporda, kullanıcı etkileşimini artırarak ve reklam hedeflemeyi iyileştirerek gelirlerin nasıl artırılabileceği üzerinde durulacaktır. BYS (Bilgi Yönetim Sistemi) platformunun gelişmiş veri analitiği ve kullanıcı davranış analizi özellikleri, bu süreci destekleyecektir. Platformun veri analitiği araçları, kullanıcı etkileşim verilerini analiz etmek, kullanıcı segmentasyonu yapmak ve kişiselleştirilmiş tavsiyeleri optimize etmek için kullanılacaktır. Bu özellikler, reklamların daha etkili hedeflenmesini ve kullanıcıların sitede daha fazla vakit geçirmesini sağlayarak gelir artışına katkıda bulunacaktır.
+
+İş veri setimizi değiştirdik. Bunun sebebi, ilk veri setimizin veritabanımızdaki tablolarla uyumlu olmaması sebebiyle daha uygun başka bir veri seti seçtik.
+
+**Platformun İsmi:** Wordpress
+
+**Lisansı:** Telif Hakkı © Wordpress. Tüm hakları saklıdır.
+
+**Kısa Tarihçesi:** Wordpress, bilgi yönetimi ve iletişim ihtiyaçlarını karşılamak üzere özel olarak geliştirilmiş bir içerik yönetim platformudur. 2010 yılında kurulmuş olup, o zamandan beri sürekli olarak güncellenmiş ve geliştirilmiştir.
+
+**Platformun Kullanıcıya Sunduğu Özellikler:**
+
+Kolay ve kullanıcı dostu arayüz. Esnek ve özelleştirilebilir içerik yönetimi. Mobil uyumlu tasarım. SEO dostu yapı. Entegre sosyal medya paylaşımı. Çoklu dil desteği. Güvenlik ve veri koruma özellikleri. Kullanılan Yazılım, Veritabanı ve Diğer Teknolojiler:
+
+**Yazılım:** PHP, JavaScript Veritabanı: MySQL Diğer Teknolojiler: HTML, CSS, jQuery Platformun API'si ve Sunduğu Özelliklerin Listesi:
+
+**Wordpress API:** Kullanıcı yönetimi API. İçerik yönetimi API. Veritabanı entegrasyonu API. Sosyal medya paylaşımı entegrasyonu API. SEO optimizasyonu API. Çoklu dil desteği API. Wordpress'i Seçme Nedenleri: Wordpress'i seçmemizde birkaç temel sebep bulunmaktadır:
+
+**Özel İlgi Alanları:** İletişim ve bilgi yönetimi alanında uzmanlaşmış bir platform arayışındaydık. **Daha Önceki Deneyimler:** Daha önce Wordpress'i kullanarak olumlu deneyimler yaşadık ve platformun güvenilirliği ve esnekliği bizi tekrar tercih etmeye yönlendirdi.
+
+**Sektör Hacmi ve Popülerliği:** Wordpress, sektörde geniş bir kullanıcı kitlesine sahip olup, popülerliği ve yaygınlığıyla güven vermektedir.
+
+**Özelliklerin Zenginliği:** Platformun sunduğu özelliklerin zenginliği, ihtiyaçlarımızı karşılamak için ideal bir çözüm sunmaktadır. Bu nedenlerle Wordpress'i seçerek, iletişim ve bilgi yönetimi alanındaki gereksinimlerimizi en iyi şekilde karşılayacağımıza inanıyoruz.
+
+FlavorHub olarak, BYS (Bilgi Yönetim Sistemi) platformumuz olan Wordpress'ten çeşitli öne çıkan özelliklerden yararlanacağız. Özellikle Wordpress'in esnek ve kullanıcı dostu içerik yönetim sistemi sayesinde, kullanıcıların kolayca yemek tarifleri paylaşmasını ve görsel içerikleri etkileşimli bir şekilde yayınlamasını sağlayacağız. Ayrıca, Wordpress'in geniş eklenti ve tema desteği, kullanıcı deneyimini geliştirmek için özelleştirilebilir çözümler sunmamıza olanak tanıyacak. BYS platformu olarak, Wordpress'in entegre analitik araçlarından da faydalanarak, kullanıcı etkileşim verilerini detaylı bir şekilde izleyecek ve bu verilere dayanarak kullanıcıların davranışlarını anlamlandırıp, kişiselleştirilmiş içerik ve reklam stratejileri oluşturacağız.
+
+## 
