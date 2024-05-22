@@ -37,3 +37,65 @@ Kolay ve kullanıcı dostu arayüz. Esnek ve özelleştirilebilir içerik yönet
 **Özelliklerin Zenginliği:** Platformun sunduğu özelliklerin zenginliği, ihtiyaçlarımızı karşılamak için ideal bir çözüm sunmaktadır. Bu nedenlerle Wordpress'i seçerek, iletişim ve bilgi yönetimi alanındaki gereksinimlerimizi en iyi şekilde karşılayacağımıza inanıyoruz.
 
 FlavorHub olarak, BYS (Bilgi Yönetim Sistemi) platformumuz olan Wordpress'ten çeşitli öne çıkan özelliklerden yararlanacağız. Özellikle Wordpress'in esnek ve kullanıcı dostu içerik yönetim sistemi sayesinde, kullanıcıların kolayca yemek tarifleri paylaşmasını ve görsel içerikleri etkileşimli bir şekilde yayınlamasını sağlayacağız. Ayrıca, Wordpress'in geniş eklenti ve tema desteği, kullanıcı deneyimini geliştirmek için özelleştirilebilir çözümler sunmamıza olanak tanıyacak. BYS platformu olarak, Wordpress'in entegre analitik araçlarından da faydalanarak, kullanıcı etkileşim verilerini detaylı bir şekilde izleyecek ve bu verilere dayanarak kullanıcıların davranışlarını anlamlandırıp, kişiselleştirilmiş içerik ve reklam stratejileri oluşturacağız.
+
+## **Q2: İş problemini çözmede kullanılacak data seti [10 puan]**
+
+### Veri Seti Bilgileri:
+
+**Veri Seti Adı:** Food.com Recipes and Interactions
+
+**Veri Seti Adresi:** <https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions>
+
+**İçeriği:** Bu veri seti, yemek tarifleri ve kullanıcı yorumlarından oluşmaktadır. Tariflerin yanı sıra, her bir tarif için puanlama ve kullanıcı yorumları da bulunmaktadır.
+
+**Verinin Üretim Yöntemi ve Şartları:** Veri, Food.com platformundan toplanmıştır. Food.com, kullanıcıların yemek tariflerini paylaşabildiği bir platformdur. Veri seti, platformdaki kullanıcılar tarafından paylaşılan tarifler ve bu tariflere yapılan yorumlardan oluşmaktadır.
+
+**Verinin Formatı:** Veri seti CSV (Comma Separated Values) formatında sunulmuştur.
+
+**Boyutu:** Veri seti büyük boyutta olup, yaklaşık olarak 280 MB boyutundadır. Ancak biz Wordpress'e Osetin plugin'i ile verileri girerken sorun yaşadık. Bu sebeple verilerin bir kısmını eledik. Kalan 8404 farklı tarif ve bunlara gelen 43569 değerlendirme var.
+
+Bu veri seti Food.com veri setinin keşfi üzerine odaklarak oluşturulmuştur. Özellikle, belirli içeriklere özgü değişkenleri incelemeyi hedefler. Bu değişkenler arasında, veri setindeki tariflerde ne sıklıkla yer aldıkları ve zaman içinde gönderilen tariflerde kullanımları gibi içerikler bulunmaktadır. Ayrıca, bu notebook, belirli bir tarifin adı verildiğinde o tarifin belirli bir içerik içerme olasılıklarını tahmin etmek için bir model oluşturur.
+
+Veri setinde yer alan **recipes.csv** dosyasında yer alan sütun bilgileri aşağıda verilmiştir.
+
+-   *name:* Bu sütun tarifin adını içerir. Örneğin, "deep fried dessert thingys" veya "easiest ever hollandaise sauce".
+
+-   *recipe_id:* Bu sütun tarifin benzersiz kimlik numarasını içerir. Örneğin, "107699" veya "49262".
+
+-   *minutes:* Bu sütun tarifi hazırlamak için gereken toplam süreyi (dakika cinsinden) belirtir. Örneğin, "20" veya "25" dakika.
+
+-   *contributor_id:* Bu sütun tarifi ekleyen kullanıcının kimlik numarasını içerir. Örneğin, "158966" veya "64428".
+
+-   *submitted:* Bu sütun tarifi ekleme tarihini içerir. Örneğin, "2005-01-05" veya "2002-12-19".
+
+-   *tags:* Bu sütun tarife ait etiketleri içerir. Bu etiketler tarifin kategorisini, yapılma süresini, yemeğin türünü vb. belirtir. Örneğin, ['30-minutes-or-less', 'time-to-make', 'course....
+
+-   *nutrition*: Bu sütun besin değerlerini içerir ve yedi farklı besin ögesi hakkında bilgi verir. Örneğin, [1663.3, 221.0, 168.0, 66.0, 19.0, 158.0, 29.0]. Bu değerler sırasıyla kalori, toplam yağ, doymuş yağ, kolesterol, sodyum, karbonhidrat ve protein miktarlarını temsil eder.
+
+-   *n_steps*: Bu sütun tarifin kaç adımda tamamlandığını belirtir. Örneğin, "20" veya "7".
+
+-   *steps:* Bu sütun tarifin yapım aşamalarını içerir. Her bir adım bir liste öğesi olarak belirtilir. Örneğin, ['in a large bowl, mix flour, granulated sug....
+
+-   *description:* Bu sütun tarifin kısa bir açıklamasını veya tarif hakkında bazı bilgileri içerir. Örneğin, "my mother used to make this for us as a special treat when we were kids".
+
+-   *ingredients:* Bu sütun tarifin malzemelerini içerir. Her bir malzeme bir liste öğesi olarak belirtilir. Örneğin, ['all-purpose flour', 'granulated sugar', 'bak....
+
+-   *n_ingredients:* Bu sütun tarifin içerdiği toplam malzeme sayısını belirtir. Örneğin, "13" veya "5".
+
+Veri setinde yer alan **RAW_interactions.csv** dosyasında yer alan sütun bilgileri aşağıda verilmiştir.
+
+-   *user_id:* Bu sütun, tarifi inceleyen (yorum yapan) kullanıcının benzersiz kimlik numarasını içerir. Örneğin, "2", "3" veya "4".
+
+-   *recipe_id:* Bu sütun, incelemesi yapılan tarifin benzersiz kimlik numarasını içerir. Örneğin, "8937", "126440" veya "57222".
+
+-   *date:* Bu sütun, incelemenin yapıldığı tarihi içerir. Örneğin, "2002-12-01", "2010-02-27" veya "2011-10-01".
+
+-   *rating:* Bu sütun, kullanıcının tarife verdiği puanı içerir. Puanlar genellikle 1 ile 5 arasında değişir. Örneğin, "4" veya "5".
+
+-   *review:* Bu sütun, kullanıcının tarife ilişkin yazdığı yorumu içerir. Örneğin, "This worked very well and is EASY. I used not..." veya "I made the Mexican topping and took it to bunk...".
+
+Veri seti üzerinde şu değişiklikleri yaptık:
+
+1.  recipes.csv dosyasındaki description sütununda 231 adet boş veri kümesini veritabanına yükleyemediğimiz için boş veri kümelerini boşluk karakteriyle (" ") doldurduk.
+
+2.  interactions.csv dosyasındaki "review" sütunundaki 8 adet boş veri kümesini veritabanına yükleyemediğimiz için boş veri kümelerini boşluk karakteriyle (" ") doldurduk.
