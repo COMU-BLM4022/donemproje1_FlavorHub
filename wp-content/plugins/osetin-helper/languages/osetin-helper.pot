@@ -1,0 +1,316 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Osetin Helper\n"
+"POT-Creation-Date: 2018-10-12 10:42-0700\n"
+"PO-Revision-Date: 2018-10-12 10:41-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: osetin-helper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: osetin-helper.php:17
+msgid "review"
+msgstr ""
+
+#: osetin-helper.php:21
+msgid "Reviews"
+msgstr ""
+
+#: osetin-helper.php:22
+msgid "Review"
+msgstr ""
+
+#: osetin-helper.php:23
+msgid "Add Review"
+msgstr ""
+
+#: osetin-helper.php:24
+msgid "Add New Review"
+msgstr ""
+
+#: osetin-helper.php:25
+msgid "Edit Review"
+msgstr ""
+
+#: osetin-helper.php:26
+msgid "New Review"
+msgstr ""
+
+#: osetin-helper.php:27
+msgid "View Review"
+msgstr ""
+
+#: osetin-helper.php:28
+msgid "Search Reviews"
+msgstr ""
+
+#: osetin-helper.php:29
+msgid "No Reviews Found"
+msgstr ""
+
+#: osetin-helper.php:88
+msgid "recipe"
+msgstr ""
+
+#: osetin-helper.php:97
+msgid "Recipes"
+msgstr ""
+
+#: osetin-helper.php:98
+msgid "Recipe"
+msgstr ""
+
+#: osetin-helper.php:99
+msgid "Add Recipe"
+msgstr ""
+
+#: osetin-helper.php:100
+msgid "Add New Recipe"
+msgstr ""
+
+#: osetin-helper.php:101
+msgid "Edit Recipe"
+msgstr ""
+
+#: osetin-helper.php:102
+msgid "New Recipe"
+msgstr ""
+
+#: osetin-helper.php:103
+msgid "View Recipe"
+msgstr ""
+
+#: osetin-helper.php:104
+msgid "Search Recipes"
+msgstr ""
+
+#: osetin-helper.php:105
+msgid "No Recipes Found"
+msgstr ""
+
+#: osetin-helper.php:273
+msgid "feature"
+msgstr ""
+
+#: osetin-helper.php:274
+msgid "ingredient"
+msgstr ""
+
+#: osetin-helper.php:275
+msgid "cuisine"
+msgstr ""
+
+#: osetin-helper.php:293
+msgid "Features"
+msgstr ""
+
+#: osetin-helper.php:294
+msgid "Feature"
+msgstr ""
+
+#: osetin-helper.php:295
+msgid "All Features"
+msgstr ""
+
+#: osetin-helper.php:296
+msgid "Edit Feature"
+msgstr ""
+
+#: osetin-helper.php:297
+msgid "View Feature"
+msgstr ""
+
+#: osetin-helper.php:298
+msgid "Update Feature"
+msgstr ""
+
+#: osetin-helper.php:299
+msgid "Add New Feature"
+msgstr ""
+
+#: osetin-helper.php:300
+msgid "New Feature Name"
+msgstr ""
+
+#: osetin-helper.php:301
+msgid "Search Features"
+msgstr ""
+
+#: osetin-helper.php:302
+msgid "Popular Features"
+msgstr ""
+
+#: osetin-helper.php:303
+msgid "Add or remove features"
+msgstr ""
+
+#: osetin-helper.php:304
+msgid "Choose from the most used features"
+msgstr ""
+
+#: osetin-helper.php:317
+msgid "Ingredients"
+msgstr ""
+
+#: osetin-helper.php:318
+msgid "Ingredient"
+msgstr ""
+
+#: osetin-helper.php:319
+msgid "All Ingredients"
+msgstr ""
+
+#: osetin-helper.php:320
+msgid "Edit Ingredient"
+msgstr ""
+
+#: osetin-helper.php:321
+msgid "View Ingredient"
+msgstr ""
+
+#: osetin-helper.php:322
+msgid "Update Ingredient"
+msgstr ""
+
+#: osetin-helper.php:323
+msgid "Add New Ingredient"
+msgstr ""
+
+#: osetin-helper.php:324
+msgid "New Ingredient Name"
+msgstr ""
+
+#: osetin-helper.php:325
+msgid "Search Ingredients"
+msgstr ""
+
+#: osetin-helper.php:326
+msgid "Popular Ingredients"
+msgstr ""
+
+#: osetin-helper.php:327
+msgid "Add or remove ingredients"
+msgstr ""
+
+#: osetin-helper.php:328
+msgid "Choose from the most used ingredients"
+msgstr ""
+
+#: osetin-helper.php:341
+msgid "Cuisines"
+msgstr ""
+
+#: osetin-helper.php:342
+msgid "Cuisine"
+msgstr ""
+
+#: osetin-helper.php:343
+msgid "All Cuisines"
+msgstr ""
+
+#: osetin-helper.php:344
+msgid "Edit Cuisine"
+msgstr ""
+
+#: osetin-helper.php:345
+msgid "View Cuisine"
+msgstr ""
+
+#: osetin-helper.php:346
+msgid "Update Cuisine"
+msgstr ""
+
+#: osetin-helper.php:347
+msgid "Add New Cuisine"
+msgstr ""
+
+#: osetin-helper.php:348
+msgid "New Cuisine Name"
+msgstr ""
+
+#: osetin-helper.php:349
+msgid "Search Cuisines"
+msgstr ""
+
+#: osetin-helper.php:350
+msgid "Popular Cuisines"
+msgstr ""
+
+#: osetin-helper.php:351
+msgid "Add or remove cuisines"
+msgstr ""
+
+#: osetin-helper.php:352
+msgid "Choose from the most used cuisines"
+msgstr ""
+
+#: osetin-helper.php:375
+msgid "Neptune Cuisines"
+msgstr ""
+
+#: osetin-helper.php:376
+msgid "Cuisines Table Widget"
+msgstr ""
+
+#: osetin-helper.php:412 osetin-helper.php:488 osetin-helper.php:558
+#: osetin-helper.php:632
+msgid "New title"
+msgstr ""
+
+#: osetin-helper.php:415 osetin-helper.php:491 osetin-helper.php:561
+#: osetin-helper.php:635
+msgid "Title:"
+msgstr ""
+
+#: osetin-helper.php:451
+msgid "Neptune Categories"
+msgstr ""
+
+#: osetin-helper.php:452
+msgid "Catogories Table Widget"
+msgstr ""
+
+#: osetin-helper.php:528
+msgid "Neptune Social Links"
+msgstr ""
+
+#: osetin-helper.php:529
+msgid "Social Links Widget"
+msgstr ""
+
+#: osetin-helper.php:598
+msgid "Neptune Author Box"
+msgstr ""
+
+#: osetin-helper.php:599
+msgid "Author Box Widget"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Osetin Helper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds Recipe support to use within a theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PinSupreme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pinsupreme.com"
+msgstr ""

@@ -1,0 +1,45 @@
+{
+  "name": "meal_planner",
+  "authors": [
+    "Tamerlan Soziev <tamik@soziev.com>"
+  ],
+  "description": "Meal Planner Plugin by Tamerlan Soziev",
+  "main": [
+    "index.html",
+    "main.js"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "homepage": "https://google.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foo/bar.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "slick-carousel": "^1.6.0",
+    "dragula.js": "dragula#^3.7.2",
+    "chartist": "^0.11.0",
+    "perfect-scrollbar": "^0.7.0",
+    "chartist-plugin-tooltip": "^0.0.18"
+  },
+  "resolutions": {
+    "chartist": "^0.11.0"
+  }
+}

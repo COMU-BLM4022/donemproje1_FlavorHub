@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-22 12:10+0200\n"
+"PO-Revision-Date: 2014-03-13 16:57+0100\n"
+"Last-Translator: Vincent <support@wp-member.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:27
+msgid "Extension Settings"
+msgstr "Extensie Instellingen"
+
+#: admin/admin.php:54
+msgid "User Bookmarks"
+msgstr "Bladwijzers"
+
+#: admin/admin.php:104
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: admin/admin.php:110
+msgid "Settings are reset to default."
+msgstr "Instellingen gereset."
+
+#: admin/panels/settings.php:3
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: admin/panels/settings.php:7
+msgid "Automatically add bookmark widget after post content"
+msgstr "Voeg widget: 'bladwijzers' automatisch toe aan de post"
+
+#: admin/panels/settings.php:10 admin/panels/settings.php:62
+#: admin/panels/settings.php:82 admin/panels/settings.php:92
+#: admin/panels/settings.php:102
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/panels/settings.php:11 admin/panels/settings.php:63
+#: admin/panels/settings.php:83 admin/panels/settings.php:93
+#: admin/panels/settings.php:103
+msgid "No"
+msgstr "Nee"
+
+#: admin/panels/settings.php:17
+msgid "Exclude these post types"
+msgstr "Sluit deze post types uit"
+
+#: admin/panels/settings.php:19
+msgid "Choose post types"
+msgstr "Kies post typen"
+
+#: admin/panels/settings.php:27
+msgid ""
+"Applies to automatic bookmark widget insertion only. e.g. If you do not want "
+"the widget to appear on certain post types."
+msgstr ""
+"Alleen van toepassing op automatische bladwijzerwidget. bijv. Als u niet "
+"wilt dat de widget verschijnt op bepaalde post typen."
+
+#: admin/panels/settings.php:32
+msgid "Exclude these IDs"
+msgstr "Sluit deze ID's uit"
+
+#: admin/panels/settings.php:35
+msgid ""
+"For automatic widget insertion, this can exclude the post IDs you specify "
+"here (seperated by comma) regardless of any other settings."
+msgstr ""
+"Voor automatische widget toevoeging, kan je hiermee de post ID's die je hier "
+"opgeeft (gescheiden door een komma) uit sluiten."
+
+#: admin/panels/settings.php:42 admin/panels/settings.php:183
+msgid "Save Changes"
+msgstr "Bewaar Instellingen"
+
+#: admin/panels/settings.php:43 admin/panels/settings.php:184
+msgid "Reset Options"
+msgstr "Reset Instellingen"
+
+#: admin/panels/settings.php:46
+msgid "Bookmark Shortcode Settings"
+msgstr "Bladwijzer Shortcode Instellingen"
+
+#: admin/panels/settings.php:47
+msgid ""
+"These settings can be overridden by shortcode options. They are for general "
+"bookmark template that appears on your content. The bookmark sidebar widget "
+"may override some settings to make it look perfect in sidebar."
+msgstr ""
+"Deze instellingen kunnen worden overschreven door shortcode instellingen. Ze "
+"zijn bedoeld voor de algemene bladwijzer template die in je post wordt "
+"weergegeven. De widget 'bladwijzer' in de sidebar  kan sommige instellingen "
+"overschrijven om het goed te laten functioneren."
+
+#: admin/panels/settings.php:51
+msgid "Bookmark Widget Width"
+msgstr "Bladwijzer Widget Breedte"
+
+#: admin/panels/settings.php:54
+msgid "e.g. 250px, 50%, 300px, etc."
+msgstr "Bijv: 250pc, 50%, 300px, etc"
+
+#: admin/panels/settings.php:59
+msgid "Widgetized Look"
+msgstr "Widget Uitstraling"
+
+#: admin/panels/settings.php:69
+msgid "Default Alignment"
+msgstr "Standaard uitlijning"
+
+#: admin/panels/settings.php:72
+msgid "Left"
+msgstr "Links"
+
+#: admin/panels/settings.php:73
+msgid "Right"
+msgstr "Rechts"
+
+#: admin/panels/settings.php:79
+msgid "Inline Display"
+msgstr "Inline Display"
+
+#: admin/panels/settings.php:89
+msgid "Disable top margin"
+msgstr "Schakel top margin uit"
+
+#: admin/panels/settings.php:99
+msgid "Disable bottom margin"
+msgstr "Schakel bottom margin uit"
+
+#: admin/panels/settings.php:109
+msgid "Gap between buttons (%)"
+msgstr "Ruimte tussen knoppen (%)"
+
+#: admin/panels/settings.php:112
+msgid "This is used if your bookmark widget width is fluid using percentages."
+msgstr ""
+"Dit wordt gebruikt als uw bladwijzerwidget breedte gebruik maakt van "
+"percentages."
+
+#: admin/panels/settings.php:117
+msgid "Gap between buttons (px)"
+msgstr "Ruimte tussen knoppen (px)"
+
+#: admin/panels/settings.php:120
+msgid "This is used if your bookmark widget width is fixed using pixels."
+msgstr ""
+"Dit wordt gebruikt als uw bladwijzerwidget breedte gebruik maakt van pixels"
+
+#: admin/panels/settings.php:125
+msgid "Text for \"Remove Bookmark\""
+msgstr "Tekst voor  \"Verwijder Bladwijzer\""
+
+#: admin/panels/settings.php:132
+msgid "Text for \"Bookmark has been added\""
+msgstr "Tekst voor \"Bladwijzer is toegevoegd\""
+
+#: admin/panels/settings.php:139
+msgid "Text for \"Bookmark has been removed\""
+msgstr "Tekst voor \"Bladwijzer is verwijderd\""
+
+#: admin/panels/settings.php:146
+msgid "Text for \"Default Collection\""
+msgstr "Tekst voor \"Standaard Collectie\""
+
+#: admin/panels/settings.php:153
+msgid "Text for \"Add to Collection\""
+msgstr "Tekst voor \"Voeg toe aan collectie\""
+
+#: admin/panels/settings.php:160
+msgid "Text for \"New Collection\""
+msgstr "Tekst voor \"Nieuwe Collectie\""
+
+#: admin/panels/settings.php:167
+msgid "Text for \"New Collection Placeholder\""
+msgstr "Tekst voor \"Placeholder Nieuwe Collectie\""
+
+#: admin/panels/settings.php:174
+msgid "Text for \"Submit New Collection\""
+msgstr "Tekst voor \"Voeg Nieuwe Collectie toe\""
+
+#: functions/api.php:90
+#, php-format
+msgid "%s Bookmarks in Collection"
+msgstr "%s Bladwijzers in Collectie"
+
+#: functions/api.php:93
+msgid "Undo"
+msgstr "Herstel"
+
+#: functions/api.php:93
+msgid "Remove Collection"
+msgstr "Verwijder collectie"
+
+#: functions/api.php:97
+msgid ""
+"Choose how do you want to remove this collection. This action cannot be "
+"undone!"
+msgstr ""
+"Maak een keuze hoe je deze collectie wilt verwijderen. Er is geen weg terug."
+
+#: functions/api.php:100
+msgid "Remove collection and all bookmarks in it"
+msgstr "Verwijder Collectie+ Bladwijzers"
+
+#: functions/api.php:101
+msgid "Remove collection only"
+msgstr "Verwijder alleen de Collectie"
+
+#: functions/api.php:103
+msgid "Remove collection"
+msgstr "Verwijder collectie"
+
+#: functions/api.php:122 functions/api.php:136
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: functions/api.php:141
+msgid "Content Removed"
+msgstr "Inhoud Verwijderd"
+
+#: functions/api.php:155
+msgid "You did not add any content to this collection yet."
+msgstr "Je hebt nog geen bladwijzers in deze collectie"
+
+#: functions/api.php:285
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to view "
+"and manage your bookmarks."
+msgstr ""
+"Je moet <a href=\"%s\"> inloggen</a> of een <a href=\"%s\">account aanmaken</"
+"a> om bladwijzers te kunnen zien of gebruiken."
+
+#: functions/api.php:370
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to "
+"bookmark/favorite this content."
+msgstr ""
+"Je moet <a href=\"%s\"> inloggen</a> of een <a href=\"%s\">account aanmaken</"
+"a> om van deze pagina een bladwijzer te maken"
+
+#: functions/defaults.php:39
+msgid "Remove Bookmark"
+msgstr "Verwijder Bladwijzer"
+
+#: functions/defaults.php:40
+msgid "Thanks for bookmarking this content!"
+msgstr "Bedankt voor het maken van een bladwijzer van deze inhoud!"
+
+#: functions/defaults.php:41
+msgid "This content is no longer in your bookmarks."
+msgstr "Deze inhoud zit niet meer tussen je bladwijzers"
+
+#: functions/defaults.php:42
+msgid "Default Collection"
+msgstr "Standaard Collectie"
+
+#: functions/defaults.php:43
+msgid "Add to Collection"
+msgstr "Collectie Toevoegen"
+
+#: functions/defaults.php:44
+msgid "New Collection"
+msgstr "Niewe Collectie"
+
+#: functions/defaults.php:45
+msgid "Enter collection name..."
+msgstr "Voer collectie naam in..."
+
+#: functions/defaults.php:46
+msgid "Add New Collection"
+msgstr "Voeg Nieuwe Collectie Toe"
+
+#: functions/widgets.php:13
+msgid "Show the bookmark widget in your sidebar"
+msgstr "Toon de bladwijzer widget in je sidebar"
+
+#: functions/widgets.php:17
+msgid "UserPro - Bookmark Widget"
+msgstr "UserPro - Bladwijzer Widget"
+
+#: functions/widgets.php:63
+msgid "Bookmark Me"
+msgstr "Maak Bladwijzer"
+
+#: functions/widgets.php:67
+msgid "Title:"
+msgstr "Titel:"
