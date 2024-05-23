@@ -1,0 +1,261 @@
+Version 4.0.2(24 Apr 2018)
+
+============================
+	
+- Fixed bug : Users can't see each others public bookmarks
+- Fixed bug : Current user can't see private bookmarks on his profile
+
+Version 4.0.1(04 Aug 2017)
+
+============================
+	
+- Fixed bug : Urgent bug fix
+
+
+
+Version 4.0(04 Aug 2017)
+
+============================
+	
+- Enhancement : Bookmark count column is now made sortable
+
+
+
+Version 3.9(24 May 2017)
+
+============================
+	
+- New Feature : Collections can be displayed in Grid Layout ( Use the shortcode as follows - [userpro_bookmarklist layout="grid"] )
+
+
+
+Version 3.8(31 Mar 2017)
+
+============================
+	
+- Enhancement : The bookmark count is updated with AJAX after bookmarking the post
+	
+- Enhancement : Administrator can now limit the number of collections to be created by users
+	
+- Enhancement : Administrator can now limit the number of posts to be bookmarked in one collection
+
+
+
+Version 3.7(12 Sep 2016)
+
+============================
+	
+- New Feature : Added auto update
+
+
+
+Version 3.6(26 Aug 2016)
+
+============================
+	
+- Fixed Bug : Bookmark count not displayed correctly
+	
+- Fixed Bug : More than one collections showing as selected at a time.
+
+
+
+Version 3.5(20 June 2016)
+
+============================
+	
+- Enhancement : Added configurable setting for displaying Heart Icon for bookmarking the content to Default Collection
+	
+- Enhancement : Added option for Administrator to create multiple collections
+
+
+
+Version 3.4(15 April 2016
+
+============================
+	
+- Enhancement : Added Bookmark widget in Profile Customizer for UserPro Dashboard
+
+
+
+Version 3.3(02 Feb 2016)
+
+============================
+	
+- New feature : Added configurable setting for displaying bookmark widget in popup
+
+
+
+Version 3.2(07 Jan 2016)
+
+============================
+	
+- New feature : Added configurable setting for enabling/disabling creating new collection
+
+
+
+Version 3.1(23 Dec 2015)
+
+============================
+	
+- New feature : Added configurable option in backend to display the Social buttons on the collection
+	
+- Fixed Bug   : Social Share button not displaying on changing collection
+
+
+
+Version 3.0(11 Dec 2015)
+
+============================
+	
+- New feature : User can now share their private bookmarks on social media
+
+
+
+Version 2.9(9 Nov 2015)
+============================
+	
+- New feature : Now Bookmark Count is displayed in the WordPress Posts page
+
+
+
+Version 2.8(3 Nov 2015)
+
+============================
+	
+- New feature : Added configurable option in backend to display the Login and Registration forms in popup
+
+
+
+Version 2.7(26 Oct 2015)
+
+============================
+	
+- New feature : Added widget( UserPro - Top 5 bookmarks ) to show top five bookmarked post
+
+
+
+Version 2.6(13 Oct 2015)
+
+============================
+	 
+- New feature : Now single post can be bookmarked into multiple collections , added setting in admin panel to enable/disable this feature
+
+
+
+Version 2.5(22 Sep 2015)
+
+============================
+     
+- New feature :Admin can now decide whether heart icon should be displayed on bookmark widget or not.
+
+
+
+Version 2.4(15 Sep 2015)
+
+============================
+     
+- New feature :Administrator can reset to factory settings by clearing all users bookmarks and bookmark collections
+
+
+
+Version 2.3(27 Aug 2015)
+
+============================
+
+     
+- Fixed :Public bookmarks displaying multipletime in the collectionlist
+
+
+
+Version 2.2(22 July  2015)
+
+============================
+
+     
+-Administrator can now decide whether to display public bookmarks to guests user (Given setting at backend)
+
+
+
+Version 2.1(12 Jun 2015)
+
+============================
+
+   
+- Added Feature to automatic updates
+   
+- Added feature to display users public bookmarks on the profile page
+
+
+
+Version 2.0(01 Apr 2015)
+
+============================
+
+   
+- Enhanced security
+   - Admin can now decide whether category bookmarking should be allowed or not
+
+
+
+Version 1.9(5 Mar 2015)
+
+============================
+
+	
+- Fixed : Bookmarks incorrectly added twice in newly created collection, even when nothing is added in it
+
+
+
+Version 1.8(27 Feb 2015)
+
+============================
+
+	
+- Added feature to display the avatar of users who has bookmarked the post
+
+
+
+
+Version 1.7 (20 Feb 2015)
+
+============================
+
+	
+- Added feature to display the number of times the post has been bookmarked.
+
+
+
+Version 1.6 (31 Jan 2015)
+
+============================
+
+	
+- Added feature to mark new collection public or private. Use [userpro_publicbookmark] to display public bookmarks.
+
+
+
+Version 1.5 (4 Dec 2014)
+
+============================
+
+	
+- Added feature to bookmark category.
+
+
+Version 1.4.1 (13 Nov 2014)
+
+============================
+
+	
+- Fixed Bug for Add Bookmark.
+
+
+Version 1.4 (17 Oct 2014)
+- Fixed IE11 Compatibility issue.
+
+Version 1.0 (25 Dec 2013)
+
+============================
+
+	
+- Initial Version of the Bookmarks Addon for UserPro.

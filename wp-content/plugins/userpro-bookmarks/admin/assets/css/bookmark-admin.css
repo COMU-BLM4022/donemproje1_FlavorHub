@@ -1,0 +1,13 @@
+.collection_delete_btn{
+	background-image:url(../img/collection-icons.png);
+	height: 40px;
+    width: 30px;
+	background-position: 65px 0px;
+	cursor: pointer;
+}
+.collection_delete_btn:hover{
+	height: 40px;
+   	 width: 30px;
+	background-image:url(../img/collection-icons.png);
+	background-position: 65px 45px;
+}

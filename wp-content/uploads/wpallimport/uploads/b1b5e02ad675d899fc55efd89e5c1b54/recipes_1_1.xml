@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[23]]></undefined0>
+		<name><![CDATA[deep fried dessert thingys]]></name>
+		<recipe_id><![CDATA[107699]]></recipe_id>
+		<minutes><![CDATA[20]]></minutes>
+		<contributor_id><![CDATA[158966]]></contributor_id>
+		<submitted><![CDATA[2005-01-05]]></submitted>
+		<tags><![CDATA[['30-minutes-or-less']]></tags>
+		<nutrition><![CDATA[ 'time-to-make']]></nutrition>
+		<n_steps><![CDATA[ 'course']]></n_steps>
+		<steps><![CDATA[ 'preparation']]></steps>
+		<description><![CDATA[ 'occasion']]></description>
+		<ingredients><![CDATA[ 'low-protein']]></ingredients>
+		<n_ingredients><![CDATA[ 'desserts']]></n_ingredients>
+		<step_1><![CDATA[ 'deep-fry']]></step_1>
+		<step_2><![CDATA[ 'stove-top']]></step_2>
+		<step_3><![CDATA[ 'dietary']]></step_3>
+		<step_4><![CDATA[ 'high-calcium']]></step_4>
+		<step_5><![CDATA[ 'high-in-something']]></step_5>
+		<step_6><![CDATA[ 'low-in-something']]></step_6>
+		<step_7><![CDATA[ 'taste-mood']]></step_7>
+		<step_8><![CDATA[ 'sweet']]></step_8>
+		<step_9><![CDATA[ 'equipment']]></step_9>
+		<step_10><![CDATA[ 'technique']]]></step_10>
+		<step_11><![CDATA[[1663.3]]></step_11>
+		<step_12><![CDATA[ 221.0]]></step_12>
+		<step_13><![CDATA[ 168.0]]></step_13>
+		<step_14><![CDATA[ 66.0]]></step_14>
+		<step_15><![CDATA[ 19.0]]></step_15>
+		<step_16><![CDATA[ 158.0]]></step_16>
+		<step_17><![CDATA[ 29.0]]]></step_17>
+		<step_18><![CDATA[20]]></step_18>
+		<step_19><![CDATA[['in a large bowl ]]></step_19>
+		<step_20><![CDATA[ mix flour ]]></step_20>
+		<step_21><![CDATA[ granulated sugar ]]></step_21>
+		<step_22><![CDATA[ baking powder and salt']]></step_22>
+		<step_23><![CDATA[ 'make a well in the center of the flour mixture ]]></step_23>
+		<step_24><![CDATA[ and pour in milk ]]></step_24>
+		<step_25><![CDATA[ vanilla ]]></step_25>
+		<step_26><![CDATA[ egg and 2 tablespoons oil']]></step_26>
+		<step_27><![CDATA[ 'mix until smooth']]></step_27>
+		<step_28><![CDATA[ 'heat remaining vegetable oil to 400 degrees in a small deep fryer']]></step_28>
+		<step_29><![CDATA[ 'oil is hot enough when it starts to ripple']]></step_29>
+		<step_30><![CDATA[ 'be careful not to overheat']]></step_30>
+		<step_31><![CDATA[ 'butter one side of each bread slice']]></step_31>
+		<step_32><![CDATA[ 'sprinkle the brown sugar and cinnamon evenly onto the buttered side of the bread slices']]></step_32>
+		<step_33><![CDATA[ 'make sandwiches by placing the slices of bread together with the brown sugar on the inside']]></step_33>
+		<step_34><![CDATA[ 'cut the sandwiches into quarters']]></step_34>
+		<step_35><![CDATA[ 'now is a good time to test the oil by dropping in a very small amount of batter']]></step_35>
+		<step_36><![CDATA[ 'batter should sizzle and brown in about 20 seconds']]></step_36>
+		<step_37><![CDATA[ 'oil needs to be hot enough to melt the brown sugar inside the sandwiches but not so hot that it scorches the batter']]></step_37>
+		<step_38><![CDATA[ 'dip the sandwiches into the batter mixture']]></step_38>
+		<step_39><![CDATA[ 'using deep fryer tongs ]]></step_39>
+		<step_40><![CDATA[ carefully place the battered sandwiches into the heated oil']]></step_40>
+		<step_41><![CDATA[ 'be cautious when deep frying']]></step_41>
+		<step_42><![CDATA[ 'try to avoid burns from splattering hot oil']]></step_42>
+		<step_43><![CDATA[ 'remove sandwiches from the oil when they are golden brown']]></step_43>
+		<step_44><![CDATA[ 'set aside to cool for a couple of minutes']]></step_44>
+		<step_45><![CDATA[ 'sprinkle with powdered sugar and serve']]]></step_45>
+		<step_46><![CDATA[my mother used to make this for us as a special treat. i don't know where she got this recipe or what it is called (hence the title). my husband loves this and encouraged me to submit it. this recipe is full of sugar and oil and is as unhealthy as a desert can be but very yummy.]]></step_46>
+		<step_47><![CDATA[['all-purpose flour']]></step_47>
+		<step_48><![CDATA[ 'granulated sugar']]></step_48>
+		<step_49><![CDATA[ 'baking powder']]></step_49>
+		<step_50><![CDATA[ 'salt']]></step_50>
+		<step_51><![CDATA[ 'vanilla extract']]></step_51>
+		<step_52><![CDATA[ 'egg']]></step_52>
+		<step_53><![CDATA[ 'milk']]></step_53>
+		<step_54><![CDATA[ 'vegetable oil']]></step_54>
+		<step_55><![CDATA[ 'bread']]></step_55>
+		<step_56><![CDATA[ 'brown sugar']]></step_56>
+		<step_57><![CDATA[ 'ground cinnamon']]></step_57>
+		<step_58><![CDATA[ 'butter']]></step_58>
+		<step_59><![CDATA[ 'powdered sugar']]]></step_59>
+		<step_60><![CDATA[13]]></step_60>
+		<step_61><![CDATA[in a large bowl ]]></step_61>
+		<step_62><![CDATA[ mix flour ]]></step_62>
+		<step_63><![CDATA[ granulated sugar ]]></step_63>
+		<step_64><![CDATA[ baking powder and salt]]></step_64>
+		<step_65><![CDATA[make a well in the center of the flour mixture ]]></step_65>
+		<step_66><![CDATA[ and pour in milk ]]></step_66>
+		<step_67><![CDATA[ vanilla ]]></step_67>
+		<step_68><![CDATA[ egg and 2 tablespoons oil]]></step_68>
+		<step_69><![CDATA[mix until smooth]]></step_69>
+		<step_70><![CDATA[heat remaining vegetable oil to 400 degrees in a small deep fryer]]></step_70>
+		<step_71><![CDATA[oil is hot enough when it starts to ripple]]></step_71>
+		<step_72><![CDATA[be careful not to overheat]]></step_72>
+		<step_73><![CDATA[butter one side of each bread slice]]></step_73>
+		<step_74><![CDATA[sprinkle the brown sugar and cinnamon evenly onto the buttered side of the bread slices]]></step_74>
+		<step_75><![CDATA[make sandwiches by placing the slices of bread together with the brown sugar on the inside]]></step_75>
+		<step_76><![CDATA[cut the sandwiches into quarters]]></step_76>
+		<step_77><![CDATA[now is a good time to test the oil by dropping in a very small amount of batter]]></step_77>
+		<step_78><![CDATA[batter should sizzle and brown in about 20 seconds]]></step_78>
+		<step_79><![CDATA[oil needs to be hot enough to melt the brown sugar inside the sandwiches but not so hot that it scorches the batter]]></step_79>
+		<step_80><![CDATA[dip the sandwiches into the batter mixture]]></step_80>
+		<step_81><![CDATA[using deep fryer tongs ]]></step_81>
+		<step_82><![CDATA[ carefully place the battered sandwiches into the heated oil]]></step_82>
+		<step_83><![CDATA[be cautious when deep frying]]></step_83>
+		<step_84><![CDATA[try to avoid burns from splattering hot oil]]></step_84>
+		<step_85><![CDATA[remove sandwiches from the oil when they are golden brown]]></step_85>
+		<step_86><![CDATA[set aside to cool for a couple of minutes]]></step_86>
+		<step_87><![CDATA[sprinkle with powdered sugar and serve]]></step_87>
+		<step_88><![CDATA[]]></step_88>
+		<step_89><![CDATA[]]></step_89>
+		<step_90><![CDATA[]]></step_90>
+		<ingredient_1><![CDATA[]]></ingredient_1>
+		<ingredient_2><![CDATA[]]></ingredient_2>
+		<ingredient_3><![CDATA[]]></ingredient_3>
+		<ingredient_4><![CDATA[]]></ingredient_4>
+		<ingredient_5><![CDATA[]]></ingredient_5>
+		<ingredient_6><![CDATA[]]></ingredient_6>
+		<ingredient_7><![CDATA[]]></ingredient_7>
+		<ingredient_8><![CDATA[]]></ingredient_8>
+		<ingredient_9><![CDATA[]]></ingredient_9>
+		<ingredient_10><![CDATA[]]></ingredient_10>
+		<ingredient_11><![CDATA[]]></ingredient_11>
+		<ingredient_12><![CDATA[]]></ingredient_12>
+		<ingredient_13><![CDATA[]]></ingredient_13>
+		<ingredient_14><![CDATA[]]></ingredient_14>
+		<ingredient_15><![CDATA[]]></ingredient_15>
+		<ingredient_16><![CDATA[]]></ingredient_16>
+		<ingredient_17><![CDATA[]]></ingredient_17>
+		<ingredient_18><![CDATA[]]></ingredient_18>
+		<ingredient_19><![CDATA[]]></ingredient_19>
+		<ingredient_20><![CDATA[]]></ingredient_20>
+		<ingredient_21><![CDATA[]]></ingredient_21>
+		<ingredient_22><![CDATA[]]></ingredient_22>
+		<ingredient_23><![CDATA[]]></ingredient_23>
+		<ingredient_24><![CDATA[]]></ingredient_24>
+		<ingredient_25><![CDATA[]]></ingredient_25>
+		<ingredient_26><![CDATA[]]></ingredient_26>
+		<ingredient_27><![CDATA[]]></ingredient_27>
+		<ingredient_28><![CDATA[]]></ingredient_28>
+		<ingredient_29><![CDATA[]]></ingredient_29>
+		<ingredient_30><![CDATA[]]></ingredient_30>
+		<nutrition_1><![CDATA[]]></nutrition_1>
+		<nutrition_2><![CDATA[]]></nutrition_2>
+		<nutrition_3><![CDATA[]]></nutrition_3>
+		<nutrition_4><![CDATA[]]></nutrition_4>
+		<nutrition_5><![CDATA[]]></nutrition_5>
+		<nutrition_6><![CDATA[]]></nutrition_6>
+		<nutrition_7><![CDATA[]]></nutrition_7>
+	</node>
+	<node>
+		<undefined0><![CDATA[24]]></undefined0>
+		<name><![CDATA[easiest ever  hollandaise sauce]]></name>
+		<recipe_id><![CDATA[49262]]></recipe_id>
+		<minutes><![CDATA[25]]></minutes>
+		<contributor_id><![CDATA[64428]]></contributor_id>
+		<submitted><![CDATA[2002-12-19]]></submitted>
+		<tags><![CDATA[['30-minutes-or-less']]></tags>
+		<nutrition><![CDATA[ 'time-to-make']]></nutrition>
+		<n_steps><![CDATA[ 'course']]></n_steps>
+		<steps><![CDATA[ 'main-ingredient']]></steps>
+		<description><![CDATA[ 'preparation']]></description>
+		<ingredients><![CDATA[ 'very-low-carbs']]></ingredients>
+		<n_ingredients><![CDATA[ 'sauces']]></n_ingredients>
+		<step_1><![CDATA[ 'condiments-etc']]></step_1>
+		<step_2><![CDATA[ 'eggs-dairy']]></step_2>
+		<step_3><![CDATA[ 'eggs']]></step_3>
+		<step_4><![CDATA[ 'stove-top']]></step_4>
+		<step_5><![CDATA[ 'dietary']]></step_5>
+		<step_6><![CDATA[ 'low-carb']]></step_6>
+		<step_7><![CDATA[ 'savory-sauces']]></step_7>
+		<step_8><![CDATA[ 'low-in-something']]></step_8>
+		<step_9><![CDATA[ 'equipment']]></step_9>
+		<step_10><![CDATA[ 'number-of-servings']]]></step_10>
+		<step_11><![CDATA[[1290.4]]></step_11>
+		<step_12><![CDATA[ 213.0]]></step_12>
+		<step_13><![CDATA[ 4.0]]></step_13>
+		<step_14><![CDATA[ 53.0]]></step_14>
+		<step_15><![CDATA[ 22.0]]></step_15>
+		<step_16><![CDATA[ 417.0]]></step_16>
+		<step_17><![CDATA[ 1.0]]]></step_17>
+		<step_18><![CDATA[7]]></step_18>
+		<step_19><![CDATA[['cut the butter into several pieces and bring to room temperature']]></step_19>
+		<step_20><![CDATA[ 'in the top of a double boiler ]]></step_20>
+		<step_21><![CDATA[ combine egg yolks ]]></step_21>
+		<step_22><![CDATA[ lemon juice ]]></step_22>
+		<step_23><![CDATA[ salt and pepper']]></step_23>
+		<step_24><![CDATA[ 'add a piece of butter']]></step_24>
+		<step_25><![CDATA[ 'cook ]]></step_25>
+		<step_26><![CDATA[ stirring steadily with a wooden spoon or wire whisk ]]></step_26>
+		<step_27><![CDATA[ over ]]></step_27>
+		<step_28><![CDATA[ but not touching ]]></step_28>
+		<step_29><![CDATA[ boiling water']]></step_29>
+		<step_30><![CDATA[ 'when butter melts and sauce begins to thicken ]]></step_30>
+		<step_31><![CDATA[ add remaining butter ]]></step_31>
+		<step_32><![CDATA[ stirring constantly until melted']]></step_32>
+		<step_33><![CDATA[ 'continue cooking as sauce thickens ]]></step_33>
+		<step_34><![CDATA[ about 2 more minutes']]></step_34>
+		<step_35><![CDATA[ 'immediately remove from heat']]]></step_35>
+		<step_36><![CDATA[the secret to this easy hollandaise sauce is in separating the egg yolks. remove all the egg whites]]></step_36>
+		<step_37><![CDATA[ as they can thin the sauce. also]]></step_37>
+		<step_38><![CDATA[ it is best prepared in a double boiler to prevent overheating. serve over cooked asparagus]]></step_38>
+		<step_39><![CDATA[ broccoli]]></step_39>
+		<step_40><![CDATA[ or broiled tomatoes.]]></step_40>
+		<step_41><![CDATA[['butter']]></step_41>
+		<step_42><![CDATA[ 'lemon]]></step_42>
+		<step_43><![CDATA[ juice of']]></step_43>
+		<step_44><![CDATA[ 'salt']]></step_44>
+		<step_45><![CDATA[ 'white pepper']]></step_45>
+		<step_46><![CDATA[ 'egg yolks']]]></step_46>
+		<step_47><![CDATA[5]]></step_47>
+		<step_48><![CDATA[cut the butter into several pieces and bring to room temperature]]></step_48>
+		<step_49><![CDATA[in the top of a double boiler ]]></step_49>
+		<step_50><![CDATA[ combine egg yolks ]]></step_50>
+		<step_51><![CDATA[ lemon juice ]]></step_51>
+		<step_52><![CDATA[ salt and pepper]]></step_52>
+		<step_53><![CDATA[add a piece of butter]]></step_53>
+		<step_54><![CDATA[cook ]]></step_54>
+		<step_55><![CDATA[ stirring steadily with a wooden spoon or wire whisk ]]></step_55>
+		<step_56><![CDATA[ over ]]></step_56>
+		<step_57><![CDATA[ but not touching ]]></step_57>
+		<step_58><![CDATA[ boiling water]]></step_58>
+		<step_59><![CDATA[when butter melts and sauce begins to thicken ]]></step_59>
+		<step_60><![CDATA[ add remaining butter ]]></step_60>
+		<step_61><![CDATA[ stirring constantly until melted]]></step_61>
+		<step_62><![CDATA[continue cooking as sauce thickens ]]></step_62>
+		<step_63><![CDATA[ about 2 more minutes]]></step_63>
+		<step_64><![CDATA[immediately remove from heat]]></step_64>
+		<step_65><![CDATA[]]></step_65>
+		<step_66><![CDATA[]]></step_66>
+		<step_67><![CDATA[]]></step_67>
+		<step_68><![CDATA[]]></step_68>
+		<step_69><![CDATA[]]></step_69>
+		<step_70><![CDATA[]]></step_70>
+		<step_71><![CDATA[]]></step_71>
+		<step_72><![CDATA[]]></step_72>
+		<step_73><![CDATA[]]></step_73>
+		<step_74><![CDATA[]]></step_74>
+		<step_75><![CDATA[]]></step_75>
+		<step_76><![CDATA[]]></step_76>
+		<step_77><![CDATA[]]></step_77>
+		<step_78><![CDATA[]]></step_78>
+		<step_79><![CDATA[]]></step_79>
+		<step_80><![CDATA[]]></step_80>
+		<step_81><![CDATA[]]></step_81>
+		<step_82><![CDATA[]]></step_82>
+		<step_83><![CDATA[]]></step_83>
+		<step_84><![CDATA[]]></step_84>
+		<step_85><![CDATA[]]></step_85>
+		<step_86><![CDATA[]]></step_86>
+		<step_87><![CDATA[]]></step_87>
+		<step_88><![CDATA[]]></step_88>
+		<step_89><![CDATA[]]></step_89>
+		<step_90><![CDATA[]]></step_90>
+		<ingredient_1><![CDATA[]]></ingredient_1>
+		<ingredient_2><![CDATA[]]></ingredient_2>
+		<ingredient_3><![CDATA[]]></ingredient_3>
+		<ingredient_4><![CDATA[]]></ingredient_4>
+		<ingredient_5><![CDATA[]]></ingredient_5>
+		<ingredient_6><![CDATA[]]></ingredient_6>
+		<ingredient_7><![CDATA[]]></ingredient_7>
+		<ingredient_8><![CDATA[]]></ingredient_8>
+		<ingredient_9><![CDATA[]]></ingredient_9>
+		<ingredient_10><![CDATA[]]></ingredient_10>
+		<ingredient_11><![CDATA[]]></ingredient_11>
+		<ingredient_12><![CDATA[]]></ingredient_12>
+		<ingredient_13><![CDATA[]]></ingredient_13>
+		<ingredient_14><![CDATA[]]></ingredient_14>
+		<ingredient_15><![CDATA[]]></ingredient_15>
+		<ingredient_16><![CDATA[]]></ingredient_16>
+		<ingredient_17><![CDATA[]]></ingredient_17>
+		<ingredient_18><![CDATA[]]></ingredient_18>
+		<ingredient_19><![CDATA[]]></ingredient_19>
+		<ingredient_20><![CDATA[]]></ingredient_20>
+		<ingredient_21><![CDATA[]]></ingredient_21>
+		<ingredient_22><![CDATA[]]></ingredient_22>
+		<ingredient_23><![CDATA[]]></ingredient_23>
+		<ingredient_24><![CDATA[]]></ingredient_24>
+		<ingredient_25><![CDATA[]]></ingredient_25>
+		<ingredient_26><![CDATA[]]></ingredient_26>
+		<ingredient_27><![CDATA[]]></ingredient_27>
+		<ingredient_28><![CDATA[]]></ingredient_28>
+		<ingredient_29><![CDATA[]]></ingredient_29>
+		<ingredient_30><![CDATA[]]></ingredient_30>
+		<nutrition_1><![CDATA[]]></nutrition_1>
+		<nutrition_2><![CDATA[]]></nutrition_2>
+		<nutrition_3><![CDATA[]]></nutrition_3>
+		<nutrition_4><![CDATA[]]></nutrition_4>
+		<nutrition_5><![CDATA[]]></nutrition_5>
+		<nutrition_6><![CDATA[]]></nutrition_6>
+		<nutrition_7><![CDATA[]]></nutrition_7>
+	</node>
+	<node>
+		<undefined0><![CDATA[42]]></undefined0>
+		<name><![CDATA[i yam what i yam  muffins]]></name>
+		<recipe_id><![CDATA[93958]]></recipe_id>
+		<minutes><![CDATA[45]]></minutes>
+		<contributor_id><![CDATA[133174]]></contributor_id>
+		<submitted><![CDATA[2004-06-22]]></submitted>
+		<tags><![CDATA[['60-minutes-or-less']]></tags>
+		<nutrition><![CDATA[ 'time-to-make']]></nutrition>
+		<n_steps><![CDATA[ 'course']]></n_steps>
+		<steps><![CDATA[ 'preparation']]></steps>
+		<description><![CDATA[ 'breads']]></description>
+		<ingredients><![CDATA[ 'muffins']]></ingredients>
+		<n_ingredients><![CDATA[ 'quick-breads']]]></n_ingredients>
+		<step_1><![CDATA[[171.8]]></step_1>
+		<step_2><![CDATA[ 9.0]]></step_2>
+		<step_3><![CDATA[ 28.0]]></step_3>
+		<step_4><![CDATA[ 10.0]]></step_4>
+		<step_5><![CDATA[ 8.0]]></step_5>
+		<step_6><![CDATA[ 4.0]]></step_6>
+		<step_7><![CDATA[ 8.0]]]></step_7>
+		<step_8><![CDATA[10]]></step_8>
+		<step_9><![CDATA[['preheat oven to 375 degrees']]></step_9>
+		<step_10><![CDATA[ 'spray muffin tin with non-stick cooking spray and set aside']]></step_10>
+		<step_11><![CDATA[ 'place the raisins in a small bowl and pour the 1 / 4 cup boiling water over them']]></step_11>
+		<step_12><![CDATA[ 'cover and set aside while preparing batter']]></step_12>
+		<step_13><![CDATA[ 'combine the flours ]]></step_13>
+		<step_14><![CDATA[ cocoa ]]></step_14>
+		<step_15><![CDATA[ baking powder ]]></step_15>
+		<step_16><![CDATA[ cinnamon ]]></step_16>
+		<step_17><![CDATA[ cloves ]]></step_17>
+		<step_18><![CDATA[ baking soda ]]></step_18>
+		<step_19><![CDATA[ and salt']]></step_19>
+		<step_20><![CDATA[ 'lightly beat eggs with sorghum ]]></step_20>
+		<step_21><![CDATA[ oil ]]></step_21>
+		<step_22><![CDATA[ mashed yams and orange juice']]></step_22>
+		<step_23><![CDATA[ 'add the egg mixture and buttermilk alternately to the dry ingredients ]]></step_23>
+		<step_24><![CDATA[ stir until well blended']]></step_24>
+		<step_25><![CDATA[ 'drain the raisins and add to batter along with orange peel']]></step_25>
+		<step_26><![CDATA[ 'spoon batter into prepared muffin tins ]]></step_26>
+		<step_27><![CDATA[ sprinkle 1 / 4 to 1 / 2 tsp of granulated sugar over each muffin']]></step_27>
+		<step_28><![CDATA[ 'bake in preheated oven for 15 to 20 minutes']]]></step_28>
+		<step_29><![CDATA[these muffins may have slightly different ingredients but the end result is a wonderful rich]]></step_29>
+		<step_30><![CDATA[ moist muffin. the sugar sprinkled on top before cooking gives a slightly sweet crunch and cracked glazed appearance.]]></step_30>
+		<step_31><![CDATA[['all-purpose flour']]></step_31>
+		<step_32><![CDATA[ 'buckwheat flour']]></step_32>
+		<step_33><![CDATA[ 'unsweetened cocoa']]></step_33>
+		<step_34><![CDATA[ 'baking powder']]></step_34>
+		<step_35><![CDATA[ 'baking soda']]></step_35>
+		<step_36><![CDATA[ 'salt']]></step_36>
+		<step_37><![CDATA[ 'ground cinnamon']]></step_37>
+		<step_38><![CDATA[ 'ground cloves']]></step_38>
+		<step_39><![CDATA[ 'sorghum']]></step_39>
+		<step_40><![CDATA[ 'eggs']]></step_40>
+		<step_41><![CDATA[ 'yam']]></step_41>
+		<step_42><![CDATA[ 'low-fat buttermilk']]></step_42>
+		<step_43><![CDATA[ 'orange rind']]></step_43>
+		<step_44><![CDATA[ 'orange juice']]></step_44>
+		<step_45><![CDATA[ 'canola oil']]></step_45>
+		<step_46><![CDATA[ 'raisins']]></step_46>
+		<step_47><![CDATA[ 'boiling water']]></step_47>
+		<step_48><![CDATA[ 'granulated sugar']]]></step_48>
+		<step_49><![CDATA[18]]></step_49>
+		<step_50><![CDATA[preheat oven to 375 degrees]]></step_50>
+		<step_51><![CDATA[spray muffin tin with non-stick cooking spray and set aside]]></step_51>
+		<step_52><![CDATA[place the raisins in a small bowl and pour the 1 / 4 cup boiling water over them]]></step_52>
+		<step_53><![CDATA[cover and set aside while preparing batter]]></step_53>
+		<step_54><![CDATA[combine the flours ]]></step_54>
+		<step_55><![CDATA[ cocoa ]]></step_55>
+		<step_56><![CDATA[ baking powder ]]></step_56>
+		<step_57><![CDATA[ cinnamon ]]></step_57>
+		<step_58><![CDATA[ cloves ]]></step_58>
+		<step_59><![CDATA[ baking soda ]]></step_59>
+		<step_60><![CDATA[ and salt]]></step_60>
+		<step_61><![CDATA[lightly beat eggs with sorghum ]]></step_61>
+		<step_62><![CDATA[ oil ]]></step_62>
+		<step_63><![CDATA[ mashed yams and orange juice]]></step_63>
+		<step_64><![CDATA[add the egg mixture and buttermilk alternately to the dry ingredients ]]></step_64>
+		<step_65><![CDATA[ stir until well blended]]></step_65>
+		<step_66><![CDATA[drain the raisins and add to batter along with orange peel]]></step_66>
+		<step_67><![CDATA[spoon batter into prepared muffin tins ]]></step_67>
+		<step_68><![CDATA[ sprinkle 1 / 4 to 1 / 2 tsp of granulated sugar over each muffin]]></step_68>
+		<step_69><![CDATA[bake in preheated oven for 15 to 20 minutes]]></step_69>
+		<step_70><![CDATA[]]></step_70>
+		<step_71><![CDATA[]]></step_71>
+		<step_72><![CDATA[]]></step_72>
+		<step_73><![CDATA[]]></step_73>
+		<step_74><![CDATA[]]></step_74>
+		<step_75><![CDATA[]]></step_75>
+		<step_76><![CDATA[]]></step_76>
+		<step_77><![CDATA[]]></step_77>
+		<step_78><![CDATA[]]></step_78>
+		<step_79><![CDATA[]]></step_79>
+		<step_80><![CDATA[]]></step_80>
+		<step_81><![CDATA[]]></step_81>
+		<step_82><![CDATA[]]></step_82>
+		<step_83><![CDATA[]]></step_83>
+		<step_84><![CDATA[]]></step_84>
+		<step_85><![CDATA[]]></step_85>
+		<step_86><![CDATA[]]></step_86>
+		<step_87><![CDATA[]]></step_87>
+		<step_88><![CDATA[]]></step_88>
+		<step_89><![CDATA[]]></step_89>
+		<step_90><![CDATA[]]></step_90>
+		<ingredient_1><![CDATA[]]></ingredient_1>
+		<ingredient_2><![CDATA[]]></ingredient_2>
+		<ingredient_3><![CDATA[]]></ingredient_3>
+		<ingredient_4><![CDATA[]]></ingredient_4>
+		<ingredient_5><![CDATA[]]></ingredient_5>
+		<ingredient_6><![CDATA[]]></ingredient_6>
+		<ingredient_7><![CDATA[]]></ingredient_7>
+		<ingredient_8><![CDATA[]]></ingredient_8>
+		<ingredient_9><![CDATA[]]></ingredient_9>
+		<ingredient_10><![CDATA[]]></ingredient_10>
+		<ingredient_11><![CDATA[]]></ingredient_11>
+		<ingredient_12><![CDATA[]]></ingredient_12>
+		<ingredient_13><![CDATA[]]></ingredient_13>
+		<ingredient_14><![CDATA[]]></ingredient_14>
+		<ingredient_15><![CDATA[]]></ingredient_15>
+		<ingredient_16><![CDATA[]]></ingredient_16>
+		<ingredient_17><![CDATA[]]></ingredient_17>
+		<ingredient_18><![CDATA[]]></ingredient_18>
+		<ingredient_19><![CDATA[]]></ingredient_19>
+		<ingredient_20><![CDATA[]]></ingredient_20>
+		<ingredient_21><![CDATA[]]></ingredient_21>
+		<ingredient_22><![CDATA[]]></ingredient_22>
+		<ingredient_23><![CDATA[]]></ingredient_23>
+		<ingredient_24><![CDATA[]]></ingredient_24>
+		<ingredient_25><![CDATA[]]></ingredient_25>
+		<ingredient_26><![CDATA[]]></ingredient_26>
+		<ingredient_27><![CDATA[]]></ingredient_27>
+		<ingredient_28><![CDATA[]]></ingredient_28>
+		<ingredient_29><![CDATA[]]></ingredient_29>
+		<ingredient_30><![CDATA[]]></ingredient_30>
+		<nutrition_1><![CDATA[]]></nutrition_1>
+		<nutrition_2><![CDATA[]]></nutrition_2>
+		<nutrition_3><![CDATA[]]></nutrition_3>
+		<nutrition_4><![CDATA[]]></nutrition_4>
+		<nutrition_5><![CDATA[]]></nutrition_5>
+		<nutrition_6><![CDATA[]]></nutrition_6>
+		<nutrition_7><![CDATA[]]></nutrition_7>
+	</node>
+	<node>
+		<undefined0><![CDATA[43]]></undefined0>
+		<name><![CDATA[immoral  sandwich filling  loose meat]]></name>
+		<recipe_id><![CDATA[58224]]></recipe_id>
+		<minutes><![CDATA[35]]></minutes>
+		<contributor_id><![CDATA[37183]]></contributor_id>
+		<submitted><![CDATA[2003-04-04]]></submitted>
+		<tags><![CDATA[['60-minutes-or-less']]></tags>
+		<nutrition><![CDATA[ 'time-to-make']]></nutrition>
+		<n_steps><![CDATA[ 'course']]></n_steps>
+		<steps><![CDATA[ 'main-ingredient']]></steps>
+		<description><![CDATA[ 'preparation']]></description>
+		<ingredients><![CDATA[ 'for-large-groups']]></ingredients>
+		<n_ingredients><![CDATA[ 'very-low-carbs']]></n_ingredients>
+		<step_1><![CDATA[ 'lunch']]></step_1>
+		<step_2><![CDATA[ 'main-dish']]></step_2>
+		<step_3><![CDATA[ 'beef']]></step_3>
+		<step_4><![CDATA[ 'easy']]></step_4>
+		<step_5><![CDATA[ 'stove-top']]></step_5>
+		<step_6><![CDATA[ 'dietary']]></step_6>
+		<step_7><![CDATA[ 'sandwiches']]></step_7>
+		<step_8><![CDATA[ 'low-carb']]></step_8>
+		<step_9><![CDATA[ 'inexpensive']]></step_9>
+		<step_10><![CDATA[ 'ground-beef']]></step_10>
+		<step_11><![CDATA[ 'low-in-something']]></step_11>
+		<step_12><![CDATA[ 'meat']]></step_12>
+		<step_13><![CDATA[ 'equipment']]></step_13>
+		<step_14><![CDATA[ 'number-of-servings']]]></step_14>
+		<step_15><![CDATA[[223.2]]></step_15>
+		<step_16><![CDATA[ 22.0]]></step_16>
+		<step_17><![CDATA[ 4.0]]></step_17>
+		<step_18><![CDATA[ 7.0]]></step_18>
+		<step_19><![CDATA[ 35.0]]></step_19>
+		<step_20><![CDATA[ 30.0]]></step_20>
+		<step_21><![CDATA[ 0.0]]]></step_21>
+		<step_22><![CDATA[6]]></step_22>
+		<step_23><![CDATA[['brown the meat & drain fat']]></step_23>
+		<step_24><![CDATA[ 'stir in sugar ]]></step_24>
+		<step_25><![CDATA[ mustard ]]></step_25>
+		<step_26><![CDATA[ beer ]]></step_26>
+		<step_27><![CDATA[ cayenne ]]></step_27>
+		<step_28><![CDATA[ garlic and salt & pepper to taste']]></step_28>
+		<step_29><![CDATA[ 'simmer until liquid has mostly cooked away']]></step_29>
+		<step_30><![CDATA[ 'lay slices of cheese over top of meat ]]></step_30>
+		<step_31><![CDATA[ then cover for about 5 minutes ]]></step_31>
+		<step_32><![CDATA[ with heat on very low ]]></step_32>
+		<step_33><![CDATA[ until cheese has melted']]></step_33>
+		<step_34><![CDATA[ 'stir cheese into meat']]></step_34>
+		<step_35><![CDATA[ 'serve hot ]]></step_35>
+		<step_36><![CDATA[ on sandwich buns or bread ]]></step_36>
+		<step_37><![CDATA[ or over hot potatoes or rice']]]></step_37>
+		<step_38><![CDATA[just the thing for a day when you're wanton something delicious]]></step_38>
+		<step_39><![CDATA[ and a hamburger patty is just too restrictive. loosen up your inhibitions and pile some loose meat on a bun. wicked over hot]]></step_39>
+		<step_40><![CDATA[ whipped potatoes as well.]]></step_40>
+		<step_41><![CDATA[['ground beef']]></step_41>
+		<step_42><![CDATA[ 'sugar']]></step_42>
+		<step_43><![CDATA[ 'prepared yellow mustard']]></step_43>
+		<step_44><![CDATA[ 'beer']]></step_44>
+		<step_45><![CDATA[ 'cayenne']]></step_45>
+		<step_46><![CDATA[ 'garlic']]></step_46>
+		<step_47><![CDATA[ 'salt & pepper']]></step_47>
+		<step_48><![CDATA[ 'american cheese']]]></step_48>
+		<step_49><![CDATA[8]]></step_49>
+		<step_50><![CDATA[brown the meat & drain fat]]></step_50>
+		<step_51><![CDATA[stir in sugar ]]></step_51>
+		<step_52><![CDATA[ mustard ]]></step_52>
+		<step_53><![CDATA[ beer ]]></step_53>
+		<step_54><![CDATA[ cayenne ]]></step_54>
+		<step_55><![CDATA[ garlic and salt & pepper to taste]]></step_55>
+		<step_56><![CDATA[simmer until liquid has mostly cooked away]]></step_56>
+		<step_57><![CDATA[lay slices of cheese over top of meat ]]></step_57>
+		<step_58><![CDATA[ then cover for about 5 minutes ]]></step_58>
+		<step_59><![CDATA[ with heat on very low ]]></step_59>
+		<step_60><![CDATA[ until cheese has melted]]></step_60>
+		<step_61><![CDATA[stir cheese into meat]]></step_61>
+		<step_62><![CDATA[serve hot ]]></step_62>
+		<step_63><![CDATA[ on sandwich buns or bread ]]></step_63>
+		<step_64><![CDATA[ or over hot potatoes or rice]]></step_64>
+		<step_65><![CDATA[]]></step_65>
+		<step_66><![CDATA[]]></step_66>
+		<step_67><![CDATA[]]></step_67>
+		<step_68><![CDATA[]]></step_68>
+		<step_69><![CDATA[]]></step_69>
+		<step_70><![CDATA[]]></step_70>
+		<step_71><![CDATA[]]></step_71>
+		<step_72><![CDATA[]]></step_72>
+		<step_73><![CDATA[]]></step_73>
+		<step_74><![CDATA[]]></step_74>
+		<step_75><![CDATA[]]></step_75>
+		<step_76><![CDATA[]]></step_76>
+		<step_77><![CDATA[]]></step_77>
+		<step_78><![CDATA[]]></step_78>
+		<step_79><![CDATA[]]></step_79>
+		<step_80><![CDATA[]]></step_80>
+		<step_81><![CDATA[]]></step_81>
+		<step_82><![CDATA[]]></step_82>
+		<step_83><![CDATA[]]></step_83>
+		<step_84><![CDATA[]]></step_84>
+		<step_85><![CDATA[]]></step_85>
+		<step_86><![CDATA[]]></step_86>
+		<step_87><![CDATA[]]></step_87>
+		<step_88><![CDATA[]]></step_88>
+		<step_89><![CDATA[]]></step_89>
+		<step_90><![CDATA[]]></step_90>
+		<ingredient_1><![CDATA[]]></ingredient_1>
+		<ingredient_2><![CDATA[]]></ingredient_2>
+		<ingredient_3><![CDATA[]]></ingredient_3>
+		<ingredient_4><![CDATA[]]></ingredient_4>
+		<ingredient_5><![CDATA[]]></ingredient_5>
+		<ingredient_6><![CDATA[]]></ingredient_6>
+		<ingredient_7><![CDATA[]]></ingredient_7>
+		<ingredient_8><![CDATA[]]></ingredient_8>
+		<ingredient_9><![CDATA[]]></ingredient_9>
+		<ingredient_10><![CDATA[]]></ingredient_10>
+		<ingredient_11><![CDATA[]]></ingredient_11>
+		<ingredient_12><![CDATA[]]></ingredient_12>
+		<ingredient_13><![CDATA[]]></ingredient_13>
+		<ingredient_14><![CDATA[]]></ingredient_14>
+		<ingredient_15><![CDATA[]]></ingredient_15>
+		<ingredient_16><![CDATA[]]></ingredient_16>
+		<ingredient_17><![CDATA[]]></ingredient_17>
+		<ingredient_18><![CDATA[]]></ingredient_18>
+		<ingredient_19><![CDATA[]]></ingredient_19>
+		<ingredient_20><![CDATA[]]></ingredient_20>
+		<ingredient_21><![CDATA[]]></ingredient_21>
+		<ingredient_22><![CDATA[]]></ingredient_22>
+		<ingredient_23><![CDATA[]]></ingredient_23>
+		<ingredient_24><![CDATA[]]></ingredient_24>
+		<ingredient_25><![CDATA[]]></ingredient_25>
+		<ingredient_26><![CDATA[]]></ingredient_26>
+		<ingredient_27><![CDATA[]]></ingredient_27>
+		<ingredient_28><![CDATA[]]></ingredient_28>
+		<ingredient_29><![CDATA[]]></ingredient_29>
+		<ingredient_30><![CDATA[]]></ingredient_30>
+		<nutrition_1><![CDATA[]]></nutrition_1>
+		<nutrition_2><![CDATA[]]></nutrition_2>
+		<nutrition_3><![CDATA[]]></nutrition_3>
+		<nutrition_4><![CDATA[]]></nutrition_4>
+		<nutrition_5><![CDATA[]]></nutrition_5>
+		<nutrition_6><![CDATA[]]></nutrition_6>
+		<nutrition_7><![CDATA[]]></nutrition_7>
+	</node>
+	<node>
+		<undefined0><![CDATA[51]]></undefined0>
+		<name><![CDATA[killer  lasagna]]></name>
+		<recipe_id><![CDATA[53402]]></recipe_id>
+		<minutes><![CDATA[90]]></minutes>
+		<contributor_id><![CDATA[60512]]></contributor_id>
+		<submitted><![CDATA[2003-02-04]]></submitted>
+		<tags><![CDATA[['weeknight']]></tags>
+		<nutrition><![CDATA[ 'time-to-make']]></nutrition>
+		<n_steps><![CDATA[ 'course']]></n_steps>
+		<steps><![CDATA[ 'main-ingredient']]></steps>
+		<description><![CDATA[ 'cuisine']]></description>
+		<ingredients><![CDATA[ 'preparation']]></ingredients>
+		<n_ingredients><![CDATA[ 'occasion']]></n_ingredients>
+		<step_1><![CDATA[ 'casseroles']]></step_1>
+		<step_2><![CDATA[ 'main-dish']]></step_2>
+		<step_3><![CDATA[ 'pasta']]></step_3>
+		<step_4><![CDATA[ 'oven']]></step_4>
+		<step_5><![CDATA[ 'european']]></step_5>
+		<step_6><![CDATA[ 'potluck']]></step_6>
+		<step_7><![CDATA[ 'dinner-party']]></step_7>
+		<step_8><![CDATA[ 'heirloom-historical']]></step_8>
+		<step_9><![CDATA[ 'holiday-event']]></step_9>
+		<step_10><![CDATA[ 'italian']]></step_10>
+		<step_11><![CDATA[ 'lasagna']]></step_11>
+		<step_12><![CDATA[ 'dietary']]></step_12>
+		<step_13><![CDATA[ 'low-carb']]></step_13>
+		<step_14><![CDATA[ 'low-in-something']]></step_14>
+		<step_15><![CDATA[ 'pasta-rice-and-grains']]></step_15>
+		<step_16><![CDATA[ 'to-go']]></step_16>
+		<step_17><![CDATA[ 'equipment']]></step_17>
+		<step_18><![CDATA[ '4-hours-or-less']]]></step_18>
+		<step_19><![CDATA[[370.5]]></step_19>
+		<step_20><![CDATA[ 38.0]]></step_20>
+		<step_21><![CDATA[ 21.0]]></step_21>
+		<step_22><![CDATA[ 57.0]]></step_22>
+		<step_23><![CDATA[ 53.0]]></step_23>
+		<step_24><![CDATA[ 64.0]]></step_24>
+		<step_25><![CDATA[ 3.0]]]></step_25>
+		<step_26><![CDATA[13]]></step_26>
+		<step_27><![CDATA[['brown the sausage and ground meat and drain all the fat']]></step_27>
+		<step_28><![CDATA[ 'add all the other ingredients for the meat filling and simmer on the stove ]]></step_28>
+		<step_29><![CDATA[ uncovered ]]></step_29>
+		<step_30><![CDATA[ for about 1 / 2 hour']]></step_30>
+		<step_31><![CDATA[ 'i usually add a bay leaf or two']]></step_31>
+		<step_32><![CDATA[ 'mix up the cheese filling and set aside in fridge until ready to use']]></step_32>
+		<step_33><![CDATA[ 'put the noodles in salted water and cook until soft when poked with a fork']]></step_33>
+		<step_34><![CDATA[ 'when the noodles are done ]]></step_34>
+		<step_35><![CDATA[ drain the noodles and rinse off with cold water so they can be handled easily']]></step_35>
+		<step_36><![CDATA[ 'spray the baking pan with a non-stick spray and put a layer of noodles down on the bottom of the pan']]></step_36>
+		<step_37><![CDATA[ 'it is ok to cut some of the noodles to fit into the pan if they do not fit whole']]></step_37>
+		<step_38><![CDATA[ 'spread half the cheese filling over the noodels ]]></step_38>
+		<step_39><![CDATA[ then half of the mozarella cheese on top of that ]]></step_39>
+		<step_40><![CDATA[ then half of the meat sauce over the grated mozarella cheese']]></step_40>
+		<step_41><![CDATA[ 'repeat layers and then top with more mozarella cheese']]></step_41>
+		<step_42><![CDATA[ 'bake at 375 degrees for 30 minutes']]></step_42>
+		<step_43><![CDATA[ 'let stand for 10 minutes before cutting into it']]></step_43>
+		<step_44><![CDATA[ 'leftovers can be easily stored in the freezer']]]></step_44>
+		<step_45><![CDATA[this was originally my mom's recipe and used to be a favorite when we were kids. i always requested it for my birthday dinner.]]></step_45>
+		<step_46><![CDATA[['italian sausage']]></step_46>
+		<step_47><![CDATA[ 'ground beef']]></step_47>
+		<step_48><![CDATA[ 'garlic']]></step_48>
+		<step_49><![CDATA[ 'dried basil']]></step_49>
+		<step_50><![CDATA[ 'salt']]></step_50>
+		<step_51><![CDATA[ 'whole tomato']]></step_51>
+		<step_52><![CDATA[ 'tomato paste']]></step_52>
+		<step_53><![CDATA[ 'ricotta cheese']]></step_53>
+		<step_54><![CDATA[ 'cottage cheese']]></step_54>
+		<step_55><![CDATA[ 'parmesan cheese']]></step_55>
+		<step_56><![CDATA[ 'parsley flakes']]></step_56>
+		<step_57><![CDATA[ 'eggs']]></step_57>
+		<step_58><![CDATA[ 'ground black pepper']]></step_58>
+		<step_59><![CDATA[ 'lasagna noodle']]></step_59>
+		<step_60><![CDATA[ 'mozzarella cheese']]]></step_60>
+		<step_61><![CDATA[15]]></step_61>
+		<step_62><![CDATA[brown the sausage and ground meat and drain all the fat]]></step_62>
+		<step_63><![CDATA[add all the other ingredients for the meat filling and simmer on the stove ]]></step_63>
+		<step_64><![CDATA[ uncovered ]]></step_64>
+		<step_65><![CDATA[ for about 1 / 2 hour]]></step_65>
+		<step_66><![CDATA[i usually add a bay leaf or two]]></step_66>
+		<step_67><![CDATA[mix up the cheese filling and set aside in fridge until ready to use]]></step_67>
+		<step_68><![CDATA[put the noodles in salted water and cook until soft when poked with a fork]]></step_68>
+		<step_69><![CDATA[when the noodles are done ]]></step_69>
+		<step_70><![CDATA[ drain the noodles and rinse off with cold water so they can be handled easily]]></step_70>
+		<step_71><![CDATA[spray the baking pan with a non-stick spray and put a layer of noodles down on the bottom of the pan]]></step_71>
+		<step_72><![CDATA[it is ok to cut some of the noodles to fit into the pan if they do not fit whole]]></step_72>
+		<step_73><![CDATA[spread half the cheese filling over the noodels ]]></step_73>
+		<step_74><![CDATA[ then half of the mozarella cheese on top of that ]]></step_74>
+		<step_75><![CDATA[ then half of the meat sauce over the grated mozarella cheese]]></step_75>
+		<step_76><![CDATA[repeat layers and then top with more mozarella cheese]]></step_76>
+		<step_77><![CDATA[bake at 375 degrees for 30 minutes]]></step_77>
+		<step_78><![CDATA[let stand for 10 minutes before cutting into it]]></step_78>
+		<step_79><![CDATA[leftovers can be easily stored in the freezer]]></step_79>
+		<step_80><![CDATA[]]></step_80>
+		<step_81><![CDATA[]]></step_81>
+		<step_82><![CDATA[]]></step_82>
+		<step_83><![CDATA[]]></step_83>
+		<step_84><![CDATA[]]></step_84>
+		<step_85><![CDATA[]]></step_85>
+		<step_86><![CDATA[]]></step_86>
+		<step_87><![CDATA[]]></step_87>
+		<step_88><![CDATA[]]></step_88>
+		<step_89><![CDATA[]]></step_89>
+		<step_90><![CDATA[]]></step_90>
+		<ingredient_1><![CDATA[]]></ingredient_1>
+		<ingredient_2><![CDATA[]]></ingredient_2>
+		<ingredient_3><![CDATA[]]></ingredient_3>
+		<ingredient_4><![CDATA[]]></ingredient_4>
+		<ingredient_5><![CDATA[]]></ingredient_5>
+		<ingredient_6><![CDATA[]]></ingredient_6>
+		<ingredient_7><![CDATA[]]></ingredient_7>
+		<ingredient_8><![CDATA[]]></ingredient_8>
+		<ingredient_9><![CDATA[]]></ingredient_9>
+		<ingredient_10><![CDATA[]]></ingredient_10>
+		<ingredient_11><![CDATA[]]></ingredient_11>
+		<ingredient_12><![CDATA[]]></ingredient_12>
+		<ingredient_13><![CDATA[]]></ingredient_13>
+		<ingredient_14><![CDATA[]]></ingredient_14>
+		<ingredient_15><![CDATA[]]></ingredient_15>
+		<ingredient_16><![CDATA[]]></ingredient_16>
+		<ingredient_17><![CDATA[]]></ingredient_17>
+		<ingredient_18><![CDATA[]]></ingredient_18>
+		<ingredient_19><![CDATA[]]></ingredient_19>
+		<ingredient_20><![CDATA[]]></ingredient_20>
+		<ingredient_21><![CDATA[]]></ingredient_21>
+		<ingredient_22><![CDATA[]]></ingredient_22>
+		<ingredient_23><![CDATA[]]></ingredient_23>
+		<ingredient_24><![CDATA[]]></ingredient_24>
+		<ingredient_25><![CDATA[]]></ingredient_25>
+		<ingredient_26><![CDATA[]]></ingredient_26>
+		<ingredient_27><![CDATA[]]></ingredient_27>
+		<ingredient_28><![CDATA[]]></ingredient_28>
+		<ingredient_29><![CDATA[]]></ingredient_29>
+		<ingredient_30><![CDATA[]]></ingredient_30>
+		<nutrition_1><![CDATA[]]></nutrition_1>
+		<nutrition_2><![CDATA[]]></nutrition_2>
+		<nutrition_3><![CDATA[]]></nutrition_3>
+		<nutrition_4><![CDATA[]]></nutrition_4>
+		<nutrition_5><![CDATA[]]></nutrition_5>
+		<nutrition_6><![CDATA[]]></nutrition_6>
+		<nutrition_7><![CDATA[]]></nutrition_7>
+	</node>
+</data>
